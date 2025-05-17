@@ -1,5 +1,19 @@
 # indycar-bc125at
 
+## Joe's update of the scanner frequencies - each driver has a car #, a primary frequency, and a backup frequency. we want to input the values for each driver's primary (-P) and backup (-B) frequencies in the order of their cars' # per the PDF.
+## NOTE: the first slot hould always be the frequency for IMS Radio 454.0000
+
+```csv
+Index,Name,Frequency (MHz),Modulation,CTCSS,Delay (sec),Lockout,Priority
+1,IMS RADIO,454.0000,auto,none,2,locked,off
+2,#2 NEWGARDEN P,464.9250,auto,none,2,locked,off
+3,#2 NEWGARDEN B,469.6000,auto,none,2,locked,off
+4,#3 MCLAUGHLIN P,466.8250,auto,none,2,locked,off
+5,#3 MCLAUGHLIN B,464.6750,auto,none,2,locked,off
+```
+
+
+
 ## *_do all of this on your Raspberry Pi device which you ssh into. plug the BC125AT into the pi's usb port_* 
 
 1. update and upgrade APT packages on pi, then install python3 requirements
