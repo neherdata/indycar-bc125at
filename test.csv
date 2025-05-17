@@ -1,0 +1,6 @@
+Index,Name,Frequency (MHz),Modulation,CTCSS,Delay (sec),Lockout,Priority
+1,IMS RADIO,454.0000,auto,none,2,locked,off
+2,#2 NEWGARDEN P,464.9250,auto,none,2,locked,off
+3,#2 NEWGARDEN B,469.6000,auto,none,2,locked,off
+4,#3 MCLAUGHLIN P,466.8250,auto,none,2,locked,off
+5,#3 MCLAUGHLIN B,464.6750,auto,none,2,locked,off
