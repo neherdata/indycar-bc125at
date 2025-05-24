@@ -44,8 +44,8 @@ Index,Name,Frequency (MHz),Modulation,CTCSS,Delay (sec),Lockout,Priority
 43,#27 KIRKWOOD B,467.8875,auto,none,2,locked,off
 44,#28 ERICSSON P,469.3000,auto,none,2,locked,off
 45,#28 ERICSSON B,469.7500,auto,none,2,locked,off
-46,#30 DEFRANCESCO P,468.2625,auto,none,2,locked,off
-47,#30 DEFRANCESCO B,469.2625,auto,none,2,locked,off
+46,#30 DEFRANC. P,468.2625,auto,none,2,locked,off
+47,#30 DEFRANC. B,469.2625,auto,none,2,locked,off
 48,#33 CARPENTER P,467.7125,auto,none,2,locked,off
 49,#33 CARPENTER B,465.0375,auto,none,2,locked,off
 50,#45 FOSTER P,466.3125,auto,none,2,locked,off
