@@ -34,8 +34,8 @@ Index,Name,Frequency (MHz),Modulation,CTCSS,Delay (sec),Lockout,Priority
 33,#20 ROSSI B,457.6750,auto,none,2,locked,off
 34,#21 RASMUSSEN P,469.9250,auto,none,2,locked,off
 35,#21 RASMUSSEN B,465.9625,auto,none,2,locked,off
-36,#23 HUNTER-REAY P,453.3750,auto,none,2,locked,off
-37,#23 HUNTER-REAY B,458.3750,auto,none,2,locked,off
+36,#23 HUNTER-R. P,453.3750,auto,none,2,locked,off
+37,#23 HUNTER-R. B,458.3750,auto,none,2,locked,off
 38,#24 HARVEY P,461.0125,auto,none,2,locked,off
 39,#24 HARVEY B,466.0125,auto,none,2,locked,off
 40,#26 HERTA P,464.3000,auto,none,2,locked,off
