@@ -10,8 +10,8 @@ Index,Name,Frequency (MHz),Modulation,CTCSS,Delay (sec),Lockout,Priority
 9,#5 O'WARD B,469.4375,auto,none,2,locked,off
 10,#6 SIEGEL P,460.6625,auto,none,2,locked,off
 11,#6 SIEGEL B,463.8375,auto,none,2,locked,off
-12,#06 CASTRONEVES P,460.3375,auto,none,2,locked,off
-13,#06 CASTRONEVES B,456.7625,auto,none,2,locked,off
+12,#6 CASTRONEVES P,460.3375,auto,none,2,locked,off
+13,#6 CASTRONEVES B,456.7625,auto,none,2,locked,off
 14,#7 LUNDGAARD P,460.7625,auto,none,2,locked,off
 15,#7 LUNDGAARD B,459.7750,auto,none,2,locked,off
 16,#8 SIMPSON P,457.0250,auto,none,2,locked,off
@@ -68,8 +68,3 @@ Index,Name,Frequency (MHz),Modulation,CTCSS,Delay (sec),Lockout,Priority
 67,#90 ILOTT B,466.1625,auto,none,2,locked,off
 68,#98 ANDRETTI P,464.1375,auto,none,2,locked,off
 69,#98 ANDRETTI B,463.3500,auto,none,2,locked,off
-
-
-
-
-
