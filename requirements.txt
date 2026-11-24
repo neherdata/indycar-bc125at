@@ -3,5 +3,5 @@ certifi==2026.10.19
 charset-normalizer==3.4.2
 idna==3.10
 pyserial==3.5
-requests==2.32.3
+requests==2.33.0
 urllib3==2.4.0
